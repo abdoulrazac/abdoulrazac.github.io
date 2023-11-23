@@ -129,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abdoul Razac Sané received a master's degree in Applied Mathematics and Social Sciences Populations analysis (Marseille, 2022). He has been based at the feel (France) since 2022 as a PhD candidate in Mathematics Applied to transportation. He works on generation of synthetic populations, deep generative models and individual activity schedules.
 {style="text-align: justify;"}
